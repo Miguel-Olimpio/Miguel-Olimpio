@@ -26,5 +26,7 @@
 
 </div>
 <div>
+  
   ![snake gif](https://github.com/Miguel-Olimpio/Miguel-Olimpio/blob/output/github-contribution-grid-snake.gif)
+
 </div>
